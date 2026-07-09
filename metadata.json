@@ -1,0 +1,6 @@
+{
+  "name": "Dereje Printing Press & Advertising",
+  "description": "Premium full-stack website and enterprise admin dashboard for Dereje Printing Press & Advertising, featuring beautiful user experiences and real-time backend management of services, portfolio, and messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
